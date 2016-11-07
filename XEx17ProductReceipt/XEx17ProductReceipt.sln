@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 14
+VisualStudioVersion = 14.0.25123.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "XEx17ProductReceipt", "XEx17ProductReceipt\XEx17ProductReceipt.csproj", "{F81CF517-6447-487A-A90C-A8DD224EC8B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F81CF517-6447-487A-A90C-A8DD224EC8B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{F81CF517-6447-487A-A90C-A8DD224EC8B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{F81CF517-6447-487A-A90C-A8DD224EC8B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{F81CF517-6447-487A-A90C-A8DD224EC8B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
